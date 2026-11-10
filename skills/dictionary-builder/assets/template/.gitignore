@@ -1,0 +1,11 @@
+# 本地生成产物不上传 GitHub
+local_output/
+
+# Python 运行时缓存
+__pycache__/
+*.pyc
+
+# 自动生成的欧路输入、预览和表格仅供本地使用
+*_EudicBuilder.txt
+*_preview.html
+CS_AI_Dictionary_*.csv
